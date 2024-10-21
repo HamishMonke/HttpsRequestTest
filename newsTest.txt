@@ -1,2 +1,2 @@
 This is a http request test! In the future this will show news/updates.
-This is being downloaded from github
+This is being downloaded from github.
