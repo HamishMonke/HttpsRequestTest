@@ -1,1 +1,2 @@
-Hello world, If your seeing this then future me got it to work!
+This is a http request test! In the future this will show news/updates.
+This is being downloaded from github
